@@ -1,8 +1,0 @@
-com\developerslike\App.class
-com\developerslike\controller\CustomerDetailsApi.class
-com\developerslike\data\CustomerData.class
-com\developerslike\service\ICustomerService.class
-com\developerslike\dao\ICustomerDao.class
-com\developerslike\controller\Test.class
-com\developerslike\entity\Customer.class
-com\developerslike\service\impl\CustomerService.class

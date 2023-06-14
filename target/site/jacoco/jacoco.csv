@@ -1,7 +1,0 @@
-GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-SpringBootDemo Maven Webapp,com.developerslike.entity,Customer,0,52,0,0,0,22,0,15,0,15
-SpringBootDemo Maven Webapp,com.developerslike.data,CustomerData,0,52,0,0,0,9,0,15,0,15
-SpringBootDemo Maven Webapp,com.developerslike,App,17,0,0,0,4,0,3,0,3,0
-SpringBootDemo Maven Webapp,com.developerslike.service.impl,CustomerService,30,197,8,8,5,42,9,9,1,9
-SpringBootDemo Maven Webapp,com.developerslike.controller,Test,7,0,0,0,3,0,3,0,3,0
-SpringBootDemo Maven Webapp,com.developerslike.controller,CustomerDetailsApi,28,0,0,0,7,0,6,0,6,0
